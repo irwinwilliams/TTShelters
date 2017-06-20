@@ -1,3 +1,6 @@
+---
+title: Emergency Numbers
+---
 # Emergency Numbers
 * Police: 999
 * Fire and Ambulance: 990
